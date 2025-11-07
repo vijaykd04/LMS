@@ -16,7 +16,7 @@ let app = express()
 app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
-    origin:"https://lms-1-z7z0.onrender.com/",
+    origin:"https://learnhub-khu9.onrender.com",
     credentials:true
 }))
 app.use("/api/auth", authRouter)
