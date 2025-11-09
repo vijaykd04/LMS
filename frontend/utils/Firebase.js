@@ -2,11 +2,11 @@ import {getAuth, GoogleAuthProvider} from "firebase/auth"
 import { initializeApp } from "firebase/app";
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_APIKEY ,
-  authDomain: "loginlms-a7ea1.firebaseapp.com",
-  projectId: "loginlms-a7ea1",
-  storageBucket: "loginlms-a7ea1.firebasestorage.app",
-  messagingSenderId: "665916718747",
-  appId: "1:665916718747:web:16dbe0bfe5aeeface0903e"
+  authDomain: "learning-managment-syste-6071c.firebaseapp.com",
+  projectId: "learning-managment-syste-6071c",
+  storageBucket: "learning-managment-syste-6071c.firebasestorage.app",
+  messagingSenderId:"222929393029",
+  appId:"1:222929393029:web:bef78101c64e299868e0ec" 
 };
 
 // Initialize Firebase
