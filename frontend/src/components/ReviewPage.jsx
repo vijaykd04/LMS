@@ -18,7 +18,7 @@ export default function ReviewPage() {
       </h1>
 
       <span className="lg:w-[50%] md:w-[80%] text-[15px] text-center mt-[30px] mb-[30px] px-[20px]">
-        Discover how our Virtual Courses is transforming…
+        Discover how our Learn Hub is transforming…
       </span>
 
      
